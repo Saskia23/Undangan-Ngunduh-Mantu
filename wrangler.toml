@@ -1,0 +1,6 @@
+name = "undangan-ngunduh-mantu"
+pages_build_output_dir = "./dist"
+compatibility_date = "2026-10-11"
+
+# Buat database D1 dan hubungkan sebagai binding bernama DB di Pages Settings.
+# database_id ditetapkan di dashboard Cloudflare agar tidak menyimpan kredensial akun di repo.
